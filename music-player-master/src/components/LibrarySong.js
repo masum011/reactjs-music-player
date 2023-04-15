@@ -5,6 +5,7 @@ function LibrarySong({  songs, setcorrentSong,song, id,audioref,isPlaying,setSon
     const selectSong = songs.filter((state) => state.id === id);
     setcorrentSong(selectSong[0]);
     const newSongs=songs.map((song)=>{
+        
         if(song.id===id){
             return{
                 ...song,

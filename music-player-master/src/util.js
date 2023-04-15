@@ -46,7 +46,52 @@ function chillHop(){
          active:false,
          color: ["#988F7E","#988f7e"],
          audio:"https://mp3.chillhop.com/serve.php/?mp3=49436"
-    }
+    },
+        {
+         name:'Sippin',
+         artist:'Psalm Trees',
+         conver:'https://chillhop.com/wp-content/uploads/2023/02/71374d07888a8b1b3fbef53b82d283f53209cc1a-300x300.jpg',
+         id: uuidv4(),
+         active:false,
+         color: ["#988F7E","#988f7e"],
+         audio:"https://mp3.chillhop.com/serve.php/?mp3=49436"
+    },
+        {
+         name:'Sippin',
+         artist:'Psalm Trees',
+         conver:'https://chillhop.com/wp-content/uploads/2023/02/71374d07888a8b1b3fbef53b82d283f53209cc1a-300x300.jpg',
+         id: uuidv4(),
+         active:false,
+         color: ["#988F7E","#988f7e"],
+         audio:"https://mp3.chillhop.com/serve.php/?mp3=49436"
+    },
+        {
+         name:'Sippin',
+         artist:'Psalm Trees',
+         conver:'https://chillhop.com/wp-content/uploads/2023/02/71374d07888a8b1b3fbef53b82d283f53209cc1a-300x300.jpg',
+         id: uuidv4(),
+         active:false,
+         color: ["#988F7E","#988f7e"],
+         audio:"https://mp3.chillhop.com/serve.php/?mp3=49436"
+    },
+        {
+         name:'Sippin',
+         artist:'Psalm Trees',
+         conver:'https://chillhop.com/wp-content/uploads/2023/02/71374d07888a8b1b3fbef53b82d283f53209cc1a-300x300.jpg',
+         id: uuidv4(),
+         active:false,
+         color: ["#988F7E","#988f7e"],
+         audio:"https://mp3.chillhop.com/serve.php/?mp3=49436"
+    },
+        {
+         name:'Sippin',
+         artist:'Psalm Trees',
+         conver:'https://chillhop.com/wp-content/uploads/2023/02/71374d07888a8b1b3fbef53b82d283f53209cc1a-300x300.jpg',
+         id: uuidv4(),
+         active:false,
+         color: ["#988F7E","#988f7e"],
+         audio:"https://mp3.chillhop.com/serve.php/?mp3=49436"
+    },
 
 ];
 } 
